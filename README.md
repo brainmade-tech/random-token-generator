@@ -1,2 +1,2 @@
 # random-token-generator
-A simple app that generates more than 1 million random token with fixed size and stores them in database. The purpose of this code is to show you how to generate a token with a fixed size using letters, read/write to/from files, interact with a relational database such as MySQL and finally handle errors. This code is not a perfect one, however, the main idea is to share with others what I've learned.
+A simple app that generates 10 million random strings of a fixed size and stores them in database. The purpose of this code is to showcase how I was able to read/write to/from files, interact with a relational database such as MySQL and finally handle errors.
