@@ -13,7 +13,7 @@ var ( // hardcoded config for brevity, otherwise we can externalize it in a conf
 	password   = ""
 	host       = "127.0.0.1"
 	port       = "3306"
-	dbName     = "d4l_challenge"
+	dbName     = "token_db"
 	driverName = "mysql"
 )
 
