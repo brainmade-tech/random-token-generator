@@ -1,8 +1,8 @@
 /* Author : Yassine Chaoui */
 
-CREATE DATABASE d4l_challenge;
+CREATE DATABASE token_db;
 
-USE d4l_challenge;
+USE token_db;
 
 /*DROP TABLE IF EXISTS `tokens`;*/
 
